@@ -1,1 +1,1 @@
-# bing-tests-automation
+# Bing Tests Automation

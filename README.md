@@ -1,6 +1,6 @@
 # Bing Tests Automation
 
-This project consists in a set of automated tests to evaluate Bing search behavior, using Selenium and Mocha.
+This project is a set of automated tests to emulate Bing searches, using Selenium and Mocha.
 
 ## ⚙ Installation
 * First, you need to install Mocha in the project directory:
